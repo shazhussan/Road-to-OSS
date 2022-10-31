@@ -336,6 +336,14 @@
 		"bio": "Hi, I'm Ajmal, a passionate developer from Kerala."
 	},
 	{
+		"name": "Shas",
+		"gh_username": "shazhussan",
+		"place": "Malappuram",
+		"current_pos": "Full stack developer",
+		"image": "pic shas.jpeg",
+		"bio": "loves exploring in tech!"
+	},
+	{
 		"name": "Ebin",
 		"gh_username": "ebinvarghese020",
 		"place": "Alappuzha",
